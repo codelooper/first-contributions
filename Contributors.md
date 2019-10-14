@@ -66,7 +66,7 @@ Philip Wright
 - [Piyush Sinha](https://github.com/piyushsinha24)
 - [Anuska Sinha](https://github.com/theslytherin)
 - [Bill Kao](https://github.com/billkao1013)
-- [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
+- [Singh Chaudhary](https://github.com/MayankSingh1993)
 - [Garima Mann](https://github.com/garimamann)
 - [Edmon Garcia](https://github.com/vapx)
 - [lxp](https://github.com/pylxp)
@@ -17598,4 +17598,6 @@ rehan
 - [Ramón Isijara 🌎🚀🌌:octocat:](https://github.com/isijara)
 - [Vikram Reddy] (https://github.com/inverse634)
 - [Ram Kakkar] (https://github.com/iamramkakkar)
+- [Anshuman Srivastava](https://github.com/Anshuman-hub)
+
 
